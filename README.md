@@ -49,7 +49,7 @@ Here’s the complete list of all 19 palmistry interpretations included in the q
 
 
 ❤️ HEART LINE (1–7)
-<br><br>
+<br>
 1. Goal in Love – Ends under First Finger<br><br>
 You hold high hopes for love. You have big ideals and a nearly perfect vision for what a true partnership should be.
 
