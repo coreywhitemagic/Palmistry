@@ -24,7 +24,7 @@ Make sure you have a **C++17+** compiler installed.
 
 ### 🛠️ Compile it:
 
-g++ -std=c++17 -o palmistry_quiz main.cpp
+g++ -std=c++17 -o palmistry_quiz palmistry.cpp
 
 🚀 Run it:
 
