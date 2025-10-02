@@ -78,8 +78,6 @@ I see a history of emotional setbacks here. This marks past heartbreak, separati
 This is a great sign! It shows emotional balance and a lot of happiness or peace in your love life.
 
 
-🧠 HEAD LINE (8–12)
-<br>
 8. Thinking Style – Straight<br><br>
 Your mind is highly logical and practical. You rely on facts, common sense, and clear, careful plans to solve problems.
 
