@@ -83,12 +83,13 @@ This is a great sign! It shows emotional balance and a lot of happiness or peace
 ---
 
 🧠 HEAD LINE (8–12)
-<br><br>
+
+
 8. Thinking Style – Straight<br><br>
 Your mind is highly logical and practical. You rely on facts, common sense, and clear, careful plans to solve problems.
 
 
-9. Thinking Style – Curved (Sloping Down<br><br>)
+9. Thinking Style – Curved (Sloping Down)<br><br>
 You have a deeply creative and imaginative mind. You use intuition and new ideas to solve problems, and this may indicate artistic talents.
 
 
