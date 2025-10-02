@@ -51,7 +51,6 @@ None  ✨ Basic Mode	Default strict mode — miss one, restart the quiz!
 <br>
 Here’s the complete list of all 19 palmistry interpretations included in the quiz:
 
----
 
 ### ❤️ HEART LINE (1–7)  
 <br>
