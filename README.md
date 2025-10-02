@@ -5,7 +5,7 @@ Welcome to the **Palmistry Quiz**, a command-line program that helps you master 
 
 ---
 
-## 🕺 Features That Slap
+## 🕺 Features
 - 🧠 19 handcrafted palmistry questions
 - 🔁 Optional randomization (`-r`) to shuffle the deck
 - 🕊️ Skip mode (`-k`) to review content without pressure
