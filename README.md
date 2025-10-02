@@ -1,6 +1,6 @@
 # ✋ Palmistry 
 
-A command-line program that helps you master palm reading.
+A command-line program that helps you master palm readings.
 
 
 ---
