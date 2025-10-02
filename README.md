@@ -6,10 +6,14 @@ Welcome to the **Palmistry Quiz**, a command-line program that helps you master 
 ---
 
 ## 🕺 Features
-- 🧠 19 handcrafted palmistry questions
-- 🔁 Optional randomization (`-r`) to shuffle the deck
-- 🕊️ Skip mode (`-k`) to review content without pressure
-- 🧮 Fuzzy matching via **Jaccard similarity** (75% required to pass)
+- 🧠 19 handcrafted palmistry questions<br>
+
+- 🔁 Optional randomization (`-r`) to shuffle the deck<br>
+
+- 🕊️ Skip mode (`-k`) to review content without pressure<br>
+
+- 🧮 Fuzzy matching via **Jaccard similarity** (75% required to pass)<br>
+
 - 💥 One wrong answer = Full restart (basic mode only!)
 
 ---
