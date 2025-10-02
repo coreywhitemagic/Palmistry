@@ -31,12 +31,12 @@ g++ -std=c++17 -o palmistry_quiz main.cpp
 
 ⚙️ CLI Options
 
-Flag	Mode Name	What It Does
-<br>
+Flag	Mode
+<br><br>
 -r	🎲 Random Mode	Randomizes question order
-<br>
+<br><br>
 -k	🧘 Skip Mode	Shows answers without checking for correctness
-<br>
+<br><br>
 none	🧠 Basic Mode	Default strict mode — miss one, restart the quiz!
 
 
