@@ -165,9 +165,4 @@ You are a self-made individual who establishes a clear life path early and indep
 <br>
 This is the ideal finish, indicating long-term stability, success, and high professional achievement.  
 <br><br>
----
-
-## 📜 License  
-<br>
-MIT – Use it freely, remix it joyfully, just don’t sue the hand reader.
 
