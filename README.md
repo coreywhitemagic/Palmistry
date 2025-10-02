@@ -41,7 +41,7 @@ Flag	Mode
 <br><br>
 -k	🧘 Skip Mode	Shows answers without checking for correctness
 <br><br>
-none  ✨ Basic Mode	Default strict mode — miss one, restart the quiz!
+None  ✨ Basic Mode	Default strict mode — miss one, restart the quiz!
 
 
 
