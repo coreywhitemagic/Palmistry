@@ -1,6 +1,6 @@
 # ✋ Palmistry 
 
-Welcome to the **Palmistry Quiz**, a command-line program that helps you master palm reading.
+A command-line program that helps you master palm reading.
 
 
 ---
