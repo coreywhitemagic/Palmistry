@@ -37,13 +37,14 @@ Flag	Mode
 <br><br>
 -k	🧘 Skip Mode	Shows answers without checking for correctness
 <br><br>
-none	🧠 Basic Mode	Default strict mode — miss one, restart the quiz!
+none  ✨ Basic Mode	Default strict mode — miss one, restart the quiz!
 
 
 
 ---
 
-## 🧠 Full Question & Answer List  
+##
+📖 Full Question & Answer List  
 <br>
 Here’s the complete list of all 19 palmistry interpretations included in the quiz:
 
